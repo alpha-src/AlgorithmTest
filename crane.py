@@ -4,7 +4,6 @@
 def solution(board, moves):
     baguni = [] 
     answer = 0
-    haveItem = False
 
     for i in moves:
         for j in range(len(board[i-1])):
@@ -15,7 +14,6 @@ def solution(board, moves):
 
             else :
                 baguni.append(item)
-                print(baguni)
                 if len(baguni) >= 2 :
                     if baguni[-2] == item:
                         answer += 1
@@ -27,22 +25,6 @@ def solution(board, moves):
 
 
     return answer*2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 board = [[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]
 moves = [1,5,3,5,1,2,1,4]
 
