@@ -1,8 +1,8 @@
-# Algorithm Problem Solving
+# 💥Algorithm Problem Solving 💥
 
-**Solving Problems in [Programmers](https://programmers.co.kr/learn/challenges){:target="_blank"}** <br>
-**Solving Problems in [Baekjoon](https://www.acmicpc.net/problemset){:target="_blank"}** <br>
-**Solving Problems in [HackerRank](https://www.hackerrank.com/dashboard){:target="_blank"}** <br>
+**Solving Problems in [Programmers](https://programmers.co.kr/learn/challenges)** <br>
+**Solving Problems in [Baekjoon](https://www.acmicpc.net/problemset)** <br>
+**Solving Problems in [HackerRank](https://www.hackerrank.com/dashboard)** <br>
 
 ## Purpose of Solving Problems
 
