@@ -59,4 +59,4 @@ def solution(a,b) :
 
     ret= calendar.weekday(2016, a, b)
     return days[ret]
-
+"""

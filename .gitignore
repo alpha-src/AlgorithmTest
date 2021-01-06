@@ -2,3 +2,4 @@
 test/
 decl.h
 *.exe
+.class
