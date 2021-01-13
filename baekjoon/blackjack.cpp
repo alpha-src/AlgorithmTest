@@ -22,7 +22,7 @@ int main() {
 
     vector<int> cards(N);
 
-    for(int i=0; i<cards.size(); i++)
+    for(vector<int>::size_type i=0; i<cards.size(); i++)
         cin >> cards[i];
 
     solve(cards, M);
